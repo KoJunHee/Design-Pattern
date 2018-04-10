@@ -6,6 +6,7 @@ public class GreenCircle implements DrawAPI {
     public void drawCircle(double radius, double x, double y) {
         System.out.println("Drawing Circle[ color: green, radius: " + radius + ", x: " + x + ", " + y + "]");
     }
+
 }
 
 
