@@ -8,8 +8,10 @@ public class Pentagon extends Shape {
     @Override
     public void applyColor() {
         System.out.print("Pentagon filled with color ");
-        color.applyColor();
+        color.apply();
     }
 }
+
+
 
 

@@ -2,8 +2,10 @@ package ass5_3;
 
 public class GreenColor implements Color {
     @Override
-    public void applyColor() {
+    public void apply() {
         System.out.println("Green");
     }
 }
+
+
 

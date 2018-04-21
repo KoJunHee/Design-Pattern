@@ -8,8 +8,10 @@ public class Triangle extends Shape {
     @Override
     public void applyColor() {
         System.out.print("Triangle filled with color ");
-        color.applyColor();
+        color.apply();
     }
 }
+
+
 
 
