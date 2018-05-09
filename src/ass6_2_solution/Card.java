@@ -14,7 +14,7 @@ public class Card {
 
     public Card(Suit s, int n) {
         suit = s;
-        if ((n < 2) || (n > 14)) {              // 2<= n <=14
+        if ((n < 2) || (n > 14)) {
             throw new IllegalArgumentException();
         }
         number = n;

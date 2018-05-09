@@ -1,5 +1,9 @@
 package singleton_practice_tickets;
 
-public class Ticket {
-    private int id;
+public interface Ticket {
+    public int getTicketNum();
 }
+
+
+
+

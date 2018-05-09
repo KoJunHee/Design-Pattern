@@ -1,6 +1,6 @@
 package observerPattern_practice_elevator;
 
-public class ElevatorDisplay implements Observer {
+public class ElevatorDisplay implements Observer{
     ElevatorController elevatorController;
 
     public ElevatorDisplay(ElevatorController elevatorController) {
@@ -9,6 +9,8 @@ public class ElevatorDisplay implements Observer {
 
     @Override
     public void update() {
-        System.out.println(elevatorController.getCurFloor());
+        System.out.println("ElevatorDisplay : " + elevatorController.getCurFloor() );
     }
 }
+
+

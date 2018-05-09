@@ -2,89 +2,80 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34a75834-2b17-418a-832e-d6cdbb6139f6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/adapterPattern02/AdapterPatternDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/adapterPattern02/AdvancedMediaPlayer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/adapterPattern02/AudioPlayer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/adapterPattern02/MediaAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/adapterPattern02/MediaPlayer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/adapterPattern02/Mp4Player.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/adapterPattern02/VlcPlayer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ass6_2/Card.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ass6_2/Deck.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ass6_2/SingletonExercise.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ass6_2_solution/Card.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ass6_2_solution/SingletonDeck.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ass6_2_solution/SingletonExercise.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ass6_3/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ass6_3/Observer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ass6_3/ProgramMonkeyObserver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ass6_3/SDKDownloadSubject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ass6_3/Subject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cartForSongs/DiscountMode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cartForSongs/NonDiscount.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cartForSongs/OnSale.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cartForSongs/TodayEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dip/IWorker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dip/Manager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dip/SuperWorker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dip/Worker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/isp/IFeedable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/isp/IWorkable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/isp/IWorker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/isp/Manager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/isp/Robot.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/isp/SuperWorker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/isp/Worker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lsp/LspDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lsp/Rectangle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lsp/Square.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/observerPattern_practice_battery/Battery.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/observerPattern_practice_battery/BatteryLevelDisplay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/observerPattern_practice_battery/LowBatteryWarning.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/observerPattern_practice_battery/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/observerPattern_practice_battery/Observer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/observerPattern_practice_battery/Subject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/observerPattern_practice_elevator/ElevatorController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/observerPattern_practice_elevator/ElevatorDisplay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/observerPattern_practice_elevator/FloorDisplay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/observerPattern_practice_elevator/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/observerPattern_practice_elevator/Observer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/observerPattern_practice_elevator/Subject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ocp/Circle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ocp/GraphicEditor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ocp/Rectangle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ocp/Shape.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ocp_test/FakeTimeProvider.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ocp_test/MP3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ocp_test/RealTimeProvider.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ocp_test/TimeProvider.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/polymorphism/Cat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/polymorphism/Dog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/polymorphism/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/polymorphism/Parrot.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/polymorphism/Pet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/singletonPattern_practice_printer/Printer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/singletonPattern_practice_printer/PrinterManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/singleton_practice_tickets/Printer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/singleton_practice_tickets/SingletonDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/singleton_practice_tickets/Ticket.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/singletoonPattern_doubleCheking/SingleObject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/singletoonPattern_doubleCheking/SingletonPatternDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/srp/Email.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/srp/IContent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/srp/IEmail.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/pattern/ass5_3/Color.class" afterPath="$PROJECT_DIR$/out/production/pattern/ass5_3/Color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/pattern/ass5_3/GreenColor.class" afterPath="$PROJECT_DIR$/out/production/pattern/ass5_3/GreenColor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/pattern/ass5_3/Pentagon.class" afterPath="$PROJECT_DIR$/out/production/pattern/ass5_3/Pentagon.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/pattern/ass5_3/RedColor.class" afterPath="$PROJECT_DIR$/out/production/pattern/ass5_3/RedColor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/pattern/ass5_3/Triangle.class" afterPath="$PROJECT_DIR$/out/production/pattern/ass5_3/Triangle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ass5_3/Color.java" afterPath="$PROJECT_DIR$/src/ass5_3/Color.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ass5_3/GreenColor.java" afterPath="$PROJECT_DIR$/src/ass5_3/GreenColor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ass5_3/Pentagon.java" afterPath="$PROJECT_DIR$/src/ass5_3/Pentagon.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ass5_3/RedColor.java" afterPath="$PROJECT_DIR$/src/ass5_3/RedColor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ass5_3/Shape.java" afterPath="$PROJECT_DIR$/src/ass5_3/Shape.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ass5_3/Triangle.java" afterPath="$PROJECT_DIR$/src/ass5_3/Triangle.java" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProxyPattern/Bar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProxyPattern/BarImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProxyPattern/Foo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProxyPattern/TraceProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapterPattern_practice_iterator/Enumeration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapterPattern_practice_iterator/EnumerationIteratorAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapterPattern_practice_iterator/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chainOfResponsibilityPattern/AbstractLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chainOfResponsibilityPattern/ChainPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chainOfResponsibilityPattern/ConsoleLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chainOfResponsibilityPattern/ErrorLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chainOfResponsibilityPattern/FileLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/compositePattern_practice_file/AbstractFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/compositePattern_practice_file/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/compositePattern_practice_file/Directory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/compositePattern_practice_file/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observerPattern_practice_elevator/ControllerRoomDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observerPattern_practice_elevator/VoiceNotice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp_practice_MP3/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp_practice_MP3/FakeTimeProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp_practice_MP3/MP3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp_practice_MP3/RealTimeProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp_practice_MP3/TimeProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp_practice_MP3/TimeReminder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxyPattern/Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxyPattern/ProxyImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxyPattern/ProxyPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxyPattern/RealImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleton_practice_tickets/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleton_practice_tickets/NormalTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleton_practice_tickets/NullTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleton_practice_tickets/TicketManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleton_practice_tickets/UserThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Abstract02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/it01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/it02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/testt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/ass6_2_solution/SingletonDeck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pattern/ass6_2_solution/SingletonDeck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/observerPattern_practice_battery/Battery.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pattern/observerPattern_practice_battery/Battery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/observerPattern_practice_battery/BatteryLevelDisplay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pattern/observerPattern_practice_battery/BatteryLevelDisplay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/observerPattern_practice_battery/LowBatteryWarning.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pattern/observerPattern_practice_battery/LowBatteryWarning.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/observerPattern_practice_battery/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pattern/observerPattern_practice_battery/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/observerPattern_practice_battery/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pattern/observerPattern_practice_battery/Subject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/observerPattern_practice_elevator/ElevatorController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pattern/observerPattern_practice_elevator/ElevatorController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/observerPattern_practice_elevator/ElevatorDisplay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pattern/observerPattern_practice_elevator/ElevatorDisplay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/observerPattern_practice_elevator/FloorDisplay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pattern/observerPattern_practice_elevator/FloorDisplay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/observerPattern_practice_elevator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pattern/observerPattern_practice_elevator/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/observerPattern_practice_elevator/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pattern/observerPattern_practice_elevator/Subject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/singleton_practice_tickets/Printer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/singleton_practice_tickets/SingletonDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/singleton_practice_tickets/Ticket.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pattern/singleton_practice_tickets/Ticket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/test/Abstarct.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pattern/test/Abstarct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/test/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pattern/test/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ass6_2_solution/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ass6_2_solution/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ass6_2_solution/SingletonDeck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ass6_2_solution/SingletonDeck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ass6_2_solution/SingletonExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ass6_2_solution/SingletonExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observerPattern_practice_battery/Battery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observerPattern_practice_battery/Battery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observerPattern_practice_battery/BatteryLevelDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observerPattern_practice_battery/BatteryLevelDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observerPattern_practice_battery/LowBatteryWarning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observerPattern_practice_battery/LowBatteryWarning.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observerPattern_practice_battery/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observerPattern_practice_battery/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observerPattern_practice_battery/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observerPattern_practice_battery/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observerPattern_practice_battery/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observerPattern_practice_battery/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observerPattern_practice_elevator/ElevatorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observerPattern_practice_elevator/ElevatorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observerPattern_practice_elevator/ElevatorDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observerPattern_practice_elevator/ElevatorDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observerPattern_practice_elevator/FloorDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observerPattern_practice_elevator/FloorDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observerPattern_practice_elevator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observerPattern_practice_elevator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observerPattern_practice_elevator/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observerPattern_practice_elevator/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observerPattern_practice_elevator/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observerPattern_practice_elevator/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/singleton_practice_tickets/Printer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/singleton_practice_tickets/SingletonDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/singleton_practice_tickets/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/singleton_practice_tickets/Ticket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Abstarct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Abstarct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -96,71 +87,63 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Subject.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/observerPattern_practice_elevator/Subject.java">
+      <file leaf-file-name="AbstractLogger.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern/AbstractLogger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="576">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
               <folding>
-                <element signature="e#154#164#0" expanded="true" />
+                <element signature="e#347#348#0" expanded="true" />
+                <element signature="e#391#392#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/observerPattern_practice_elevator/Main.java">
+      <file leaf-file-name="ConsoleLogger.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern/ConsoleLogger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#127#128#0" expanded="true" />
+                <element signature="e#161#162#0" expanded="true" />
+                <element signature="e#219#220#0" expanded="true" />
+                <element signature="e#293#294#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ErrorLogger.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern/ErrorLogger.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
-              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ElevatorController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/observerPattern_practice_elevator/ElevatorController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="24" column="31" lean-forward="false" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
-                <element signature="e#183#184#0" expanded="true" />
-                <element signature="e#231#232#0" expanded="true" />
-                <element signature="e#291#292#0" expanded="true" />
-                <element signature="e#342#343#0" expanded="true" />
-                <element signature="e#645#646#0" expanded="true" />
-                <element signature="e#681#682#0" expanded="true" />
+                <element signature="e#123#124#0" expanded="true" />
+                <element signature="e#157#158#0" expanded="true" />
+                <element signature="e#215#216#0" expanded="true" />
+                <element signature="e#286#287#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ElevatorDisplay.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/observerPattern_practice_elevator/ElevatorDisplay.java">
+      <file leaf-file-name="FileLogger.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern/FileLogger.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-              <folding>
-                <element signature="e#205#206#0" expanded="true" />
-                <element signature="e#265#266#0" expanded="true" />
-                <element signature="e#307#308#0" expanded="true" />
-                <element signature="e#375#376#0" expanded="true" />
-              </folding>
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FloorDisplay.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/observerPattern_practice_elevator/FloorDisplay.java">
+      <file leaf-file-name="ChainPatternDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern/ChainPatternDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding>
-                <element signature="e#199#200#0" expanded="true" />
-                <element signature="e#259#260#0" expanded="true" />
-                <element signature="e#301#302#0" expanded="true" />
-                <element signature="e#369#370#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="576">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
@@ -175,74 +158,83 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/DynamicProxyPattern</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/polymorphism/Cat.java" />
-        <option value="$PROJECT_DIR$/src/polymorphism/Dog.java" />
-        <option value="$PROJECT_DIR$/src/polymorphism/Parrot.java" />
-        <option value="$PROJECT_DIR$/src/polymorphism/Main.java" />
-        <option value="$PROJECT_DIR$/src/cartForSongs/OnSale.java" />
-        <option value="$PROJECT_DIR$/src/cartForSongs/DiscountMode.java" />
-        <option value="$PROJECT_DIR$/src/cartForSongs/TodayEvent.java" />
-        <option value="$PROJECT_DIR$/src/cartForSongs/NonDiscount.java" />
-        <option value="$PROJECT_DIR$/src/srp/IEmail.java" />
-        <option value="$PROJECT_DIR$/src/srp/Email.java" />
-        <option value="$PROJECT_DIR$/src/srp/IContent.java" />
-        <option value="$PROJECT_DIR$/src/ocp_test/MP3.java" />
-        <option value="$PROJECT_DIR$/src/ocp_test/TimeProvider.java" />
-        <option value="$PROJECT_DIR$/src/ocp_badExample/GraphicEditor.java" />
-        <option value="$PROJECT_DIR$/src/ocp_badExample/Shape.java" />
-        <option value="$PROJECT_DIR$/src/ocp_badExample/Rectangle.java" />
-        <option value="$PROJECT_DIR$/src/ocp_badExample/Circle.java" />
-        <option value="$PROJECT_DIR$/src/ocp/Shape.java" />
-        <option value="$PROJECT_DIR$/src/ocp/GraphicEditor.java" />
-        <option value="$PROJECT_DIR$/src/ocp/Rectangle.java" />
-        <option value="$PROJECT_DIR$/src/ocp/Circle.java" />
-        <option value="$PROJECT_DIR$/src/lsp/Rectangle.java" />
-        <option value="$PROJECT_DIR$/src/lsp/Square.java" />
-        <option value="$PROJECT_DIR$/src/lsp/LspDemo.java" />
-        <option value="$PROJECT_DIR$/src/dip/IWorker.java" />
-        <option value="$PROJECT_DIR$/src/dip/Worker.java" />
-        <option value="$PROJECT_DIR$/src/dip/SuperWorker.java" />
-        <option value="$PROJECT_DIR$/src/dip/Manager.java" />
-        <option value="$PROJECT_DIR$/src/isp/IFeedable.java" />
-        <option value="$PROJECT_DIR$/src/isp/IWorkable.java" />
-        <option value="$PROJECT_DIR$/src/isp/IWorker.java" />
-        <option value="$PROJECT_DIR$/src/isp/Robot.java" />
-        <option value="$PROJECT_DIR$/src/isp/SuperWorker.java" />
-        <option value="$PROJECT_DIR$/src/isp/Worker.java" />
-        <option value="$PROJECT_DIR$/src/isp/Manager.java" />
-        <option value="$PROJECT_DIR$/src/singleton_practice_tickets/Ticket.java" />
-        <option value="$PROJECT_DIR$/src/singleton_practice_tickets/SingletonDemo.java" />
-        <option value="$PROJECT_DIR$/src/singleton_practice_tickets/Printer.java" />
-        <option value="$PROJECT_DIR$/src/singletonPattern_practice_printer/PrinterManager.java" />
-        <option value="$PROJECT_DIR$/src/observerPattern_practice_battery/Observer.java" />
-        <option value="$PROJECT_DIR$/src/observerPattern_practice_battery/LowBatteryWarning.java" />
-        <option value="$PROJECT_DIR$/src/observerPattern_practice_battery/Subject.java" />
-        <option value="$PROJECT_DIR$/src/observerPattern_practice_battery/Battery.java" />
         <option value="$PROJECT_DIR$/src/observerPattern_practice_battery/BatteryLevelDisplay.java" />
+        <option value="$PROJECT_DIR$/src/observerPattern_practice_battery/LowBatteryWarning.java" />
         <option value="$PROJECT_DIR$/src/observerPattern_practice_battery/Main.java" />
-        <option value="$PROJECT_DIR$/src/observerPattern_practice_elevator/Observer.java" />
         <option value="$PROJECT_DIR$/src/observerPattern_practice_elevator/Subject.java" />
         <option value="$PROJECT_DIR$/src/observerPattern_practice_elevator/ElevatorController.java" />
+        <option value="$PROJECT_DIR$/src/observerPattern_practice_elevator/Observer.java" />
+        <option value="$PROJECT_DIR$/src/observerPattern_practice_elevator/ControllerRoomDisplay.java" />
         <option value="$PROJECT_DIR$/src/observerPattern_practice_elevator/ElevatorDisplay.java" />
         <option value="$PROJECT_DIR$/src/observerPattern_practice_elevator/FloorDisplay.java" />
+        <option value="$PROJECT_DIR$/src/observerPattern_practice_elevator/VoiceNotice.java" />
         <option value="$PROJECT_DIR$/src/observerPattern_practice_elevator/Main.java" />
+        <option value="$PROJECT_DIR$/src/adapterPattern_practice_iterator/Iterator.java" />
+        <option value="$PROJECT_DIR$/src/adapterPattern_practice_iterator/Enumeration.java" />
+        <option value="$PROJECT_DIR$/src/adapterPattern_practice_iterator/EnumerationIteratorAdapter.java" />
+        <option value="$PROJECT_DIR$/src/mediatorPattern_practice_vandingMachine/Colleague.java" />
+        <option value="$PROJECT_DIR$/src/mediatorPattern_practice_vandingMachine/Lamp.java" />
+        <option value="$PROJECT_DIR$/src/mediatorPattern_practice_vandingMachine/Mixer.java" />
+        <option value="$PROJECT_DIR$/src/mediatorPattern_practice_vandingMachine/CoinBox.java" />
+        <option value="$PROJECT_DIR$/src/mediatorPattern_practice_vandingMachine/Client.java" />
+        <option value="$PROJECT_DIR$/src/mediatorPattern_practice_vandingMachine/Mediator.java" />
+        <option value="$PROJECT_DIR$/src/test/test.java" />
+        <option value="$PROJECT_DIR$/src/test/Abstarct.java" />
+        <option value="$PROJECT_DIR$/src/ocp_practice_fuel/FuelTankMonitoring.java" />
+        <option value="$PROJECT_DIR$/src/ocp_practice_fuel/FuelTankMonitoringWith.java" />
+        <option value="$PROJECT_DIR$/src/ocp_practice_MP3/TimeProvider.java" />
+        <option value="$PROJECT_DIR$/src/ocp_practice_MP3/RealTimeProvider.java" />
+        <option value="$PROJECT_DIR$/src/ocp_practice_MP3/FakeTimeProvider.java" />
+        <option value="$PROJECT_DIR$/src/ocp_practice_MP3/TimeReminder.java" />
+        <option value="$PROJECT_DIR$/src/ocp_practice_MP3/MP3.java" />
+        <option value="$PROJECT_DIR$/src/ocp_practice_MP3/Client.java" />
+        <option value="$PROJECT_DIR$/src/ass6_2_solution/Card.java" />
+        <option value="$PROJECT_DIR$/src/ass6_2_solution/SingletonDeck.java" />
+        <option value="$PROJECT_DIR$/src/ass6_2_solution/SingletonExercise.java" />
+        <option value="$PROJECT_DIR$/src/compositePattern_practice_file/AbstractFile.java" />
+        <option value="$PROJECT_DIR$/src/compositePattern_practice_file/Directory.java" />
+        <option value="$PROJECT_DIR$/src/compositePattern_practice_file/File.java" />
+        <option value="$PROJECT_DIR$/src/compositePattern_practice_file/Client.java" />
+        <option value="$PROJECT_DIR$/src/proxyPattern/RealImage.java" />
+        <option value="$PROJECT_DIR$/src/DynamicProxyPattern/DynamicInvocationHandler.java" />
+        <option value="$PROJECT_DIR$/src/DynamicProxyPattern/Bar.java" />
+        <option value="$PROJECT_DIR$/src/DynamicProxyPattern/BarImpl.java" />
+        <option value="$PROJECT_DIR$/src/DynamicProxyPattern/TraceProxy.java" />
+        <option value="$PROJECT_DIR$/src/DynamicProxyPattern/Foo.java" />
+        <option value="$PROJECT_DIR$/src/proxyPattern/Image.java" />
+        <option value="$PROJECT_DIR$/src/proxyPattern/ProxyImage.java" />
+        <option value="$PROJECT_DIR$/src/proxyPattern/ProxyPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/chainOfResponsibilityPattern/AbstractLogger.java" />
+        <option value="$PROJECT_DIR$/src/chainOfResponsibilityPattern/ConsoleLogger.java" />
+        <option value="$PROJECT_DIR$/src/chainOfResponsibilityPattern/ErrorLogger.java" />
+        <option value="$PROJECT_DIR$/src/chainOfResponsibilityPattern/FileLogger.java" />
+        <option value="$PROJECT_DIR$/src/chainOfResponsibilityPattern/ChainPatternDemo.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-11" />
-    <option name="y" value="23" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-93" />
+    <option name="y" value="122" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
@@ -250,20 +242,12 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="AndroidView" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -280,15 +264,12 @@
               <item name="pattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="pattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="compositePattern" type="462c0819:PsiDirectoryNode" />
+              <item name="chainOfResponsibilityPattern" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -308,9 +289,14 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="SearchEverywhereHistoryKey" value="module&#9;PSI&#9;JAVA://com.sun.xml.internal.ws.api.server.Module" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/junhee/dev/pattern/src/ass4_4/BasicFormat.java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -324,50 +310,47 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SingletonExercise">
+  <component name="RunManager" selected="Application.ChainPatternDemo">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="ChainPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chainOfResponsibilityPattern.ChainPatternDemo" />
+      <module name="pattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chainOfResponsibilityPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Foo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DynamicProxyPattern.Foo" />
+      <module name="pattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DynamicProxyPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="SingletonExercise" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <option name="MAIN_CLASS_NAME" value="proxyPattern.ProxyPatternDemo" />
+      <module name="pattern" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="compositePattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="observerPattern_practice_elevator.Main" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="pattern" />
-      <envs />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" />
@@ -377,30 +360,13 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
-      <envs />
       <patterns />
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
@@ -413,21 +379,42 @@
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
       <option name="USE_DEFAULT_REPORTERS" value="false" />
       <option name="PROPERTIES_FILE" />
-      <envs />
       <properties />
       <listeners />
     </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.SingletonExercise" />
+      <item itemvalue="Application.Foo" />
+      <item itemvalue="Application.ChainPatternDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ChainPatternDemo" />
+        <item itemvalue="Application.Foo" />
+      </list>
+    </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -436,40 +423,78 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523257004090</updated>
+      <workItem from="1525784136930" duration="3792000" />
+      <workItem from="1525851473096" duration="549000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4341000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="23" width="1440" height="877" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41242236" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info id="Image Layers" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40348694" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23055555" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32919255" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32756868" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41242236" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32919255" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32919255" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -478,436 +503,242 @@
     <breakpoint-manager>
       <option name="time" value="1" />
     </breakpoint-manager>
-    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/polymorphism/Cat.java">
+    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern/AbstractLogger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/polymorphism/Parrot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="9" lean-forward="true" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/polymorphism/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cartForSongs/TodayEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cartForSongs/OnSale.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cartForSongs/NonDiscount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cartForSongs/DiscountMode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ocp_test/FakeTimeProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ocp_test/RealTimeProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ocp_test/TimeProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ocp_test/MP3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/srp/Email.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/srp/IEmail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/srp/IContent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lsp.java" />
-    <entry file="file://$PROJECT_DIR$/src/ocp/GraphicEditor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ocp/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ocp/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ocp/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lsp/LspDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lsp/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
           <folding>
-            <element signature="e#131#132#0" expanded="false" />
-            <element signature="e#167#168#0" expanded="false" />
-            <element signature="e#208#209#0" expanded="false" />
-            <element signature="e#246#247#0" expanded="false" />
-            <element signature="e#275#276#0" expanded="false" />
-            <element signature="e#305#306#0" expanded="false" />
-            <element signature="e#335#336#0" expanded="false" />
-            <element signature="e#366#367#0" expanded="false" />
-            <element signature="e#394#395#0" expanded="false" />
-            <element signature="e#446#447#0" expanded="false" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lsp/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dip/Manager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dip/SuperWorker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="12" lean-forward="true" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dip/Worker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dip/IWorker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/isp/Manager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/isp/Worker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/isp/SuperWorker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/isp/Robot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/isp/IWorkable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/isp/IWorker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/isp/IFeedable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/singleton_practice_tickets/SingletonDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/singleton_practice_tickets/Ticket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/singletonPattern_practice_printer/Printer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/singleton_practice_tickets/Printer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/observerPattern_practice_battery/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/singletonPattern_practice_printer/PrinterManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#235#244#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/observerPattern_practice_battery/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/observerPattern_practice_battery/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/observerPattern_practice_battery/LowBatteryWarning.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="51" lean-forward="true" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/observerPattern_practice_elevator/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/observerPattern_practice_battery/BatteryLevelDisplay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/observerPattern_practice_battery/Battery.java">
+    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern/ConsoleLogger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="15" />
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#228#238#0" expanded="true" />
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/observerPattern_practice_elevator/ElevatorController.java">
+    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern/ErrorLogger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="31" lean-forward="false" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+        <state relative-caret-position="198">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#645#646#0" expanded="true" />
-            <element signature="e#681#682#0" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/observerPattern_practice_elevator/ElevatorDisplay.java">
+    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern/FileLogger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        <state relative-caret-position="198">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern/ChainPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DynamicProxyPattern/Foo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DynamicProxyPattern/BarImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DynamicProxyPattern/Bar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DynamicProxyPattern/TraceProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/proxyPattern/ProxyImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/proxyPattern/Image.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/proxyPattern/ProxyPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/proxyPattern/RealImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern/AbstractLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
           <folding>
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/observerPattern_practice_elevator/FloorDisplay.java">
+    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern/ConsoleLogger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="306">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
-            <element signature="e#199#200#0" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/observerPattern_practice_elevator/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="e#154#164#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/compositePattern_practice_directory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/observerPattern_practice_elevator/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern/ErrorLogger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern/FileLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern/ChainPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>pattern</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

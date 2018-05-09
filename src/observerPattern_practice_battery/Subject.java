@@ -1,7 +1,22 @@
 package observerPattern_practice_battery;
 
-public interface Subject {
-    public void attatch(Observer observer);
-    public void detatch(Observer observer);
-    public void notifyObservers();
+import java.util.ArrayList;
+import java.util.List;
+
+public abstract class Subject {
+    private List<Observer> observers = new ArrayList<Observer>();
+    public void atatch(Observer observer){
+        observers.add(observer);
+    }
+    public void detatch(Observer observer){
+        observers.remove(observer);
+    }
+    public void notifyObservers(){
+        for(Observer observer : observers){
+            observer.update();
+        }
+    }
 }
+
+
+

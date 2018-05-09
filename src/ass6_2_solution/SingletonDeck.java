@@ -12,23 +12,22 @@ public class SingletonDeck {
 
     private SingletonDeck(){
         cards = new ArrayList<Card>();
-        // build the deck
+
         Suit[] suits = {Suit.SPADES, Suit.HEARTS, Suit.CLUBS, Suit.DIAMONDS};
         for (Suit suit : suits) {
             for (int i = 2; i <= 14; i++) {
                 cards.add(new Card(suit, i));
             }
         }
-        // shuffle it!
+
         Collections.shuffle(cards, new Random());
     }
 
-    public static SingletonDeck getInstance(){
+    public synchronized static SingletonDeck getInstance(){
         if(instance == null){
-            return new SingletonDeck();
-        }else{
-            return instance;
+            instance = new SingletonDeck();
         }
+        return instance;
     }
 
     public void print() {
@@ -37,3 +36,7 @@ public class SingletonDeck {
         }
     }
 }
+
+
+
+

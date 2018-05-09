@@ -10,4 +10,8 @@ public class test extends Abstarct{
     public void test02() {
 
     }
+
+    public void test(){
+        System.out.println(val);
+    }
 }
