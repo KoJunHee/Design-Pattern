@@ -1,4 +1,4 @@
-package chainOfResponsibilityPattern;
+package chainOfResponsibilityPattern01;
 
 public class ErrorLogger extends AbstractLogger {
 
