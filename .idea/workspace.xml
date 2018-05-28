@@ -2,23 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34a75834-2b17-418a-832e-d6cdbb6139f6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chainOfResponsibilityPattern02/ConcreteHandlerOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chainOfResponsibilityPattern02/ConcreteHandlerThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chainOfResponsibilityPattern02/ConcreteHandlerTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chainOfResponsibilityPattern02/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chainOfResponsibilityPattern02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chainOfResponsibilityPattern02/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrototyePattern/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrototyePattern/PrototypePatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrototyePattern/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrototyePattern/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrototyePattern/ShapeCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrototyePattern/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrototypePattern_deepCopy/CloningInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrototypePattern_deepCopy/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrototypePattern_deepCopy/EmployeeAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builder/BuilderPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builder/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builder/UserInfoBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mementoPattern/CareTaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mementoPattern/Memento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mementoPattern/MementoPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mementoPattern/Originator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/pattern/chainOfResponsibilityPattern/AbstractLogger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/pattern/chainOfResponsibilityPattern/ChainPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/pattern/chainOfResponsibilityPattern/ConsoleLogger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/pattern/chainOfResponsibilityPattern/ErrorLogger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/pattern/chainOfResponsibilityPattern/FileLogger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chainOfResponsibilityPattern/AbstractLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chainOfResponsibilityPattern01/AbstractLogger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chainOfResponsibilityPattern/ChainPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chainOfResponsibilityPattern01/ChainPatternDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chainOfResponsibilityPattern/ConsoleLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chainOfResponsibilityPattern01/ConsoleLogger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chainOfResponsibilityPattern/ErrorLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chainOfResponsibilityPattern01/ErrorLogger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chainOfResponsibilityPattern/FileLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chainOfResponsibilityPattern01/FileLogger.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,62 +30,62 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Handler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern02/Handler.java">
+      <file leaf-file-name="CareTaker.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mementoPattern/CareTaker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Request.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern02/Request.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="342">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
               <folding>
-                <element signature="e#269#270#0" expanded="true" />
-                <element signature="e#299#300#0" expanded="true" />
-                <element signature="e#336#337#0" expanded="true" />
-                <element signature="e#372#373#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#155#164#0" expanded="true" />
+                <element signature="e#203#204#0" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern02/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConcreteHandlerOne.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern02/ConcreteHandlerOne.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConcreteHandlerThree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern02/ConcreteHandlerThree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConcreteHandlerTwo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern02/ConcreteHandlerTwo.java">
+      <file leaf-file-name="Memento.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mementoPattern/Memento.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#107#108#0" expanded="true" />
+                <element signature="e#141#142#0" expanded="true" />
+                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MementoPatternDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/mementoPattern/MementoPatternDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Originator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mementoPattern/Originator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#150#151#0" expanded="true" />
+                <element signature="e#181#182#0" expanded="true" />
+                <element signature="e#209#210#0" expanded="true" />
+                <element signature="e#251#252#0" expanded="true" />
+                <element signature="e#292#293#0" expanded="true" />
+                <element signature="e#347#348#0" expanded="true" />
+                <element signature="e#389#390#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -101,6 +101,21 @@
     </option>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pizzafm</find>
+      <find>headfirst.designpatterns.factory.pizzafm;</find>
+      <find>headfirst.designpatterns.factory.pizzafm</find>
+      <find>headfirst.designpatterns.factory.pizzaaf</find>
+      <find>pizzaaf;;</find>
+      <find>PersonInfoBuilder</find>
+      <find>“</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>pizzafm</replace>
+      <replace>pizzaaf;</replace>
+      <replace>UesrInfoBuilder</replace>
+      <replace>&quot;</replace>
+    </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/src/DynamicProxyPattern</dir>
     </dirStrings>
@@ -111,57 +126,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/observerPattern_practice_elevator/ElevatorDisplay.java" />
-        <option value="$PROJECT_DIR$/src/observerPattern_practice_elevator/FloorDisplay.java" />
-        <option value="$PROJECT_DIR$/src/observerPattern_practice_elevator/VoiceNotice.java" />
-        <option value="$PROJECT_DIR$/src/observerPattern_practice_elevator/Main.java" />
-        <option value="$PROJECT_DIR$/src/adapterPattern_practice_iterator/Iterator.java" />
-        <option value="$PROJECT_DIR$/src/adapterPattern_practice_iterator/Enumeration.java" />
-        <option value="$PROJECT_DIR$/src/adapterPattern_practice_iterator/EnumerationIteratorAdapter.java" />
-        <option value="$PROJECT_DIR$/src/mediatorPattern_practice_vandingMachine/Colleague.java" />
-        <option value="$PROJECT_DIR$/src/mediatorPattern_practice_vandingMachine/Lamp.java" />
-        <option value="$PROJECT_DIR$/src/mediatorPattern_practice_vandingMachine/Mixer.java" />
-        <option value="$PROJECT_DIR$/src/mediatorPattern_practice_vandingMachine/CoinBox.java" />
-        <option value="$PROJECT_DIR$/src/mediatorPattern_practice_vandingMachine/Client.java" />
-        <option value="$PROJECT_DIR$/src/mediatorPattern_practice_vandingMachine/Mediator.java" />
-        <option value="$PROJECT_DIR$/src/test/test.java" />
-        <option value="$PROJECT_DIR$/src/test/Abstarct.java" />
-        <option value="$PROJECT_DIR$/src/ocp_practice_fuel/FuelTankMonitoring.java" />
-        <option value="$PROJECT_DIR$/src/ocp_practice_fuel/FuelTankMonitoringWith.java" />
-        <option value="$PROJECT_DIR$/src/ocp_practice_MP3/TimeProvider.java" />
-        <option value="$PROJECT_DIR$/src/ocp_practice_MP3/RealTimeProvider.java" />
-        <option value="$PROJECT_DIR$/src/ocp_practice_MP3/FakeTimeProvider.java" />
-        <option value="$PROJECT_DIR$/src/ocp_practice_MP3/TimeReminder.java" />
-        <option value="$PROJECT_DIR$/src/ocp_practice_MP3/MP3.java" />
-        <option value="$PROJECT_DIR$/src/ocp_practice_MP3/Client.java" />
-        <option value="$PROJECT_DIR$/src/ass6_2_solution/Card.java" />
-        <option value="$PROJECT_DIR$/src/ass6_2_solution/SingletonDeck.java" />
-        <option value="$PROJECT_DIR$/src/ass6_2_solution/SingletonExercise.java" />
-        <option value="$PROJECT_DIR$/src/compositePattern_practice_file/AbstractFile.java" />
-        <option value="$PROJECT_DIR$/src/compositePattern_practice_file/Directory.java" />
-        <option value="$PROJECT_DIR$/src/compositePattern_practice_file/File.java" />
-        <option value="$PROJECT_DIR$/src/compositePattern_practice_file/Client.java" />
-        <option value="$PROJECT_DIR$/src/proxyPattern/RealImage.java" />
-        <option value="$PROJECT_DIR$/src/DynamicProxyPattern/DynamicInvocationHandler.java" />
-        <option value="$PROJECT_DIR$/src/DynamicProxyPattern/Bar.java" />
-        <option value="$PROJECT_DIR$/src/DynamicProxyPattern/BarImpl.java" />
-        <option value="$PROJECT_DIR$/src/DynamicProxyPattern/TraceProxy.java" />
-        <option value="$PROJECT_DIR$/src/DynamicProxyPattern/Foo.java" />
-        <option value="$PROJECT_DIR$/src/proxyPattern/Image.java" />
-        <option value="$PROJECT_DIR$/src/proxyPattern/ProxyImage.java" />
-        <option value="$PROJECT_DIR$/src/proxyPattern/ProxyPatternDemo.java" />
-        <option value="$PROJECT_DIR$/src/chainOfResponsibilityPattern/AbstractLogger.java" />
-        <option value="$PROJECT_DIR$/src/chainOfResponsibilityPattern/ConsoleLogger.java" />
-        <option value="$PROJECT_DIR$/src/chainOfResponsibilityPattern/ErrorLogger.java" />
-        <option value="$PROJECT_DIR$/src/chainOfResponsibilityPattern/FileLogger.java" />
-        <option value="$PROJECT_DIR$/src/chainOfResponsibilityPattern/ChainPatternDemo.java" />
-        <option value="$PROJECT_DIR$/src/chainOfResponsibilityPattern01/ChainPatternDemo.java" />
-        <option value="$PROJECT_DIR$/src/chainOfResponsibilityPattern02/Request.java" />
-        <option value="$PROJECT_DIR$/src/chainOfResponsibilityPattern02/Handler.java" />
-        <option value="$PROJECT_DIR$/src/chainOfResponsibilityPattern02/ConcreteHandlerOne.java" />
-        <option value="$PROJECT_DIR$/src/chainOfResponsibilityPattern02/ConcreteHandlerThree.java" />
-        <option value="$PROJECT_DIR$/src/chainOfResponsibilityPattern02/ConcreteHandlerTwo.java" />
-        <option value="$PROJECT_DIR$/src/chainOfResponsibilityPattern02/Main.java" />
+        <option value="$PROJECT_DIR$/src/pizzaaf/Clams.java" />
+        <option value="$PROJECT_DIR$/src/pizzaaf/Dough.java" />
+        <option value="$PROJECT_DIR$/src/pizzaaf/Pepperoni.java" />
+        <option value="$PROJECT_DIR$/src/pizzaaf/Sauce.java" />
+        <option value="$PROJECT_DIR$/src/pizzaaf/Veggies.java" />
+        <option value="$PROJECT_DIR$/src/pizzaaf/MozzarellaCheese.java" />
+        <option value="$PROJECT_DIR$/src/pizzaaf/ParmesanCheese.java" />
+        <option value="$PROJECT_DIR$/src/pizzaaf/ReggianoCheese.java" />
+        <option value="$PROJECT_DIR$/src/pizzaaf/FreshClams.java" />
+        <option value="$PROJECT_DIR$/src/pizzaaf/Garlic.java" />
+        <option value="$PROJECT_DIR$/src/pizzaaf/FrozenClams.java" />
+        <option value="$PROJECT_DIR$/src/pizzaaf/ThickCrustDough.java" />
+        <option value="$PROJECT_DIR$/src/pizzaaf/ThinCrustDough.java" />
+        <option value="$PROJECT_DIR$/src/pizzaaf/SlicedPepperoni.java" />
+        <option value="$PROJECT_DIR$/src/pizzaaf/MarinaraSauce.java" />
+        <option value="$PROJECT_DIR$/src/pizzaaf/PlumTomatoSauce.java" />
+        <option value="$PROJECT_DIR$/src/pizzaaf/BlackOlives.java" />
+        <option value="$PROJECT_DIR$/src/pizzaaf/Eggplant.java" />
+        <option value="$PROJECT_DIR$/src/pizzaaf/Mushroom.java" />
+        <option value="$PROJECT_DIR$/src/pizzaaf/Onion.java" />
+        <option value="$PROJECT_DIR$/src/pizzaaf/RedPepper.java" />
+        <option value="$PROJECT_DIR$/src/pizzaaf/Spinach.java" />
+        <option value="$PROJECT_DIR$/src/builder/Builder.java" />
+        <option value="$PROJECT_DIR$/src/builder/UesrInfoBuilder.java" />
+        <option value="$PROJECT_DIR$/src/builder/User.java" />
+        <option value="$PROJECT_DIR$/src/builder/UserBuilder.java" />
+        <option value="$PROJECT_DIR$/src/builder/UserInfoBuilder.java" />
+        <option value="$PROJECT_DIR$/src/builder/BuilderPattern.java" />
+        <option value="$PROJECT_DIR$/src/builder/UserInfo.java" />
+        <option value="$PROJECT_DIR$/src/factoryPattern/Direction.java" />
+        <option value="$PROJECT_DIR$/src/factoryPattern/MotorStatus.java" />
+        <option value="$PROJECT_DIR$/src/factoryPattern02/MotorFactory.java" />
+        <option value="$PROJECT_DIR$/src/factoryPattern/MotorFactory.java" />
+        <option value="$PROJECT_DIR$/src/factoryPattern/Client.java" />
+        <option value="$PROJECT_DIR$/src/factoryPattern/HyundaiMotor.java" />
+        <option value="$PROJECT_DIR$/src/factoryPattern/LGMotor.java" />
+        <option value="$PROJECT_DIR$/src/factoryPattern/ElevatorController.java" />
+        <option value="$PROJECT_DIR$/src/factoryPattern/Motor.java" />
+        <option value="$PROJECT_DIR$/src/PrototypePattern_shallow/EmployeeAddress.java" />
+        <option value="$PROJECT_DIR$/src/PrototypePattern_shallow/Employee.java" />
+        <option value="$PROJECT_DIR$/src/PrototypePattern_shallow/CloningInJava.java" />
+        <option value="$PROJECT_DIR$/src/PrototyePattern/Square.java" />
+        <option value="$PROJECT_DIR$/src/PrototyePattern/PrototypePatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/PrototyePattern/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/PrototyePattern/Shape.java" />
+        <option value="$PROJECT_DIR$/src/PrototyePattern/Circle.java" />
+        <option value="$PROJECT_DIR$/src/PrototyePattern/ShapeCache.java" />
+        <option value="$PROJECT_DIR$/src/mementoPattern/MementoPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/mementoPattern/Originator.java" />
+        <option value="$PROJECT_DIR$/src/mementoPattern/CareTaker.java" />
+        <option value="$PROJECT_DIR$/src/mementoPattern/Memento.java" />
       </list>
     </option>
   </component>
@@ -174,9 +189,8 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-566" />
-    <option name="y" value="433" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
@@ -189,6 +203,28 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mementoPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
@@ -206,32 +242,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chainOfResponsibilityPattern02" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="module&#9;PSI&#9;JAVA://com.sun.xml.internal.ws.api.server.Module" />
+    <property name="SearchEverywhereHistoryKey" value="term&#9;ACTION&#9;ActivateTerminalToolWindow&#10;module&#9;PSI&#9;JAVA://com.sun.xml.internal.ws.api.server.Module" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -252,39 +266,61 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.MementoPatternDemo">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="ChainPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chainOfResponsibilityPattern01.ChainPatternDemo" />
+    <configuration name="BuilderPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="builder.BuilderPattern" />
       <module name="pattern" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chainOfResponsibilityPattern01.*" />
+          <option name="PATTERN" value="builder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Foo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DynamicProxyPattern.Foo" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="factoryPattern.Client" />
       <module name="pattern" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DynamicProxyPattern.*" />
+          <option name="PATTERN" value="factoryPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chainOfResponsibilityPattern02.Main" />
+    <configuration name="CloningInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrototypePattern_deepCopy.CloningInJava" />
       <module name="pattern" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chainOfResponsibilityPattern02.*" />
+          <option name="PATTERN" value="PrototypePattern_deepCopy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MementoPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mementoPattern.MementoPatternDemo" />
+      <module name="pattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mementoPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="PrototypePatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrototyePattern.PrototypePatternDemo" />
+      <module name="pattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PrototyePattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -356,15 +392,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.SingletonExercise" />
-      <item itemvalue="Application.Foo" />
-      <item itemvalue="Application.ChainPatternDemo" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.BuilderPattern" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.CloningInJava" />
+      <item itemvalue="Application.MementoPatternDemo" />
+      <item itemvalue="Application.PrototypePatternDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ChainPatternDemo" />
-        <item itemvalue="Application.Foo" />
+        <item itemvalue="Application.MementoPatternDemo" />
+        <item itemvalue="Application.PrototypePatternDemo" />
+        <item itemvalue="Application.CloningInJava" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.BuilderPattern" />
       </list>
     </recent_temporary>
   </component>
@@ -382,27 +422,36 @@
       <workItem from="1525851473096" duration="3380000" />
       <workItem from="1525913646124" duration="1559000" />
       <workItem from="1525922527118" duration="3273000" />
+      <workItem from="1525937567635" duration="17000" />
+      <workItem from="1526215282992" duration="4789000" />
+      <workItem from="1526347466396" duration="6000" />
+      <workItem from="1526392618182" duration="61000" />
+      <workItem from="1527159655532" duration="5462000" />
+      <workItem from="1527392421361" duration="212000" />
+      <workItem from="1527433023773" duration="84000" />
+      <workItem from="1527482020606" duration="4263000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12004000" />
+    <option name="totallyTimeSpent" value="26898000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="7" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32756868" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3275218" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info id="Image Layers" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.40348694" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42465752" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32876712" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23055555" />
@@ -411,14 +460,14 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32919255" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
@@ -426,12 +475,12 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.41242236" />
       <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info id="Image Layers" order="5" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -441,7 +490,7 @@
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.32919255" />
@@ -461,267 +510,400 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern02/Handler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern02/Request.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-          <folding>
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern02/ConcreteHandlerThree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern02/ConcreteHandlerTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern02/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern02/ConcreteHandlerOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern01/AbstractLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern01/ConsoleLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern01/ErrorLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern01/FileLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern01/ChainPatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern01/AbstractLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern01/ConsoleLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern01/ErrorLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern01/FileLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern01/ChainPatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DynamicProxyPattern/Foo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DynamicProxyPattern/BarImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DynamicProxyPattern/Bar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DynamicProxyPattern/TraceProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/proxyPattern/ProxyImage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/proxyPattern/Image.java">
+    <entry file="file://$PROJECT_DIR$/src/pizzaaf/Sauce.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pizzaaf/MozzarellaCheese.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pizzaaf/ParmesanCheese.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pizzaaf/FreshClams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pizzaaf/FrozenClams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pizzaaf/ReggianoCheese.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pizzaaf/ThinCrustDough.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/proxyPattern/ProxyPatternDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/pizzaaf/ThickCrustDough.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pizzaaf/SlicedPepperoni.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pizzaaf/MarinaraSauce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pizzaaf/Onion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pizzaaf/Spinach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pizzaaf/RedPepper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pizzaaf/Mushroom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pizzaaf/Garlic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pizzaaf/Eggplant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pizzaaf/CheesePizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pizzaaf/BlackOlives.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pizzaaf/Veggies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pizzaaf/PlumTomatoSauce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pizzaaf/PizzaTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/builder/Builder.java" />
+    <entry file="file://$PROJECT_DIR$/src/builder/UesrInfoBuilder.java" />
+    <entry file="file://$PROJECT_DIR$/src/builder/User.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Formatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="4309" column="24" lean-forward="true" selection-start-line="4309" selection-start-column="24" selection-end-line="4309" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/builder/BuilderPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/builder/UserInfoBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="5" lean-forward="true" selection-end-line="41" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/builder/UserInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factoryPattern02/Client.java" />
+    <entry file="file://$PROJECT_DIR$/src/factoryPattern02/MotorFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/factoryPattern/ElevatorController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factoryPattern/Direction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factoryPattern/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factoryPattern/HyundaiMotor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factoryPattern/MotorFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factoryPattern/MotorStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factoryPattern/Motor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factoryPattern/LGMotor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrototypePattern_deepCopy/CloningInJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrototypePattern_deepCopy/EmployeeAddress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding>
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#694#695#0" expanded="true" />
+            <element signature="e#734#735#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrototypePattern_deepCopy/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+          <folding>
+            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#699#700#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrototyePattern/ShapeCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding>
+            <element signature="e#151#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrototyePattern/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#82#83#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrototyePattern/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#83#84#0" expanded="true" />
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrototyePattern/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#89#90#0" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrototyePattern/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrototyePattern/PrototypePatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mementoPattern/CareTaker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#155#164#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/proxyPattern/RealImage.java">
+    <entry file="file://$PROJECT_DIR$/src/mementoPattern/Originator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        <state relative-caret-position="414">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="801" column="23" lean-forward="true" selection-start-line="801" selection-start-column="23" selection-end-line="801" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern01/ErrorLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern01/ChainPatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern01/FileLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern01/ConsoleLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern01/AbstractLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern02/ConcreteHandlerTwo.java">
+    <entry file="file://$PROJECT_DIR$/src/mementoPattern/Memento.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern02/ConcreteHandlerThree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern02/ConcreteHandlerOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern02/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern02/Handler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chainOfResponsibilityPattern02/Request.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           <folding>
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#107#108#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mementoPattern/MementoPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
         </state>
       </provider>
     </entry>
