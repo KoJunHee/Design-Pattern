@@ -2,11 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34a75834-2b17-418a-832e-d6cdbb6139f6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/templateMethodPattern02/CaffeineBeberage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templateMethodPattern02/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templateMethodPattern02/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templateMethodPattern02/Tea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statePattern02/ClosedState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statePattern02/ClosingState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statePattern02/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statePattern02/OpenState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statePattern02/OpeningState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statePattern02/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statePattern02/StatePatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statePattern02/StayOpenState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategyPattern/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategyPattern/OperationAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategyPattern/OperationMultiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategyPattern/OperationSubstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategyPattern/Strategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategyPattern/StrategyPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategyPattern02/Advisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategyPattern02/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategyPattern02/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategyPattern02/Firework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategyPattern02/GroupAdvisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategyPattern02/ItemAdvisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategyPattern02/PromotionAdvisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategyPattern02/RandomAdvisor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Abstarct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Abstract02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/it01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/it02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/testt.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,34 +77,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/pizzaaf/Garlic.java" />
-        <option value="$PROJECT_DIR$/src/pizzaaf/FrozenClams.java" />
-        <option value="$PROJECT_DIR$/src/pizzaaf/ThickCrustDough.java" />
-        <option value="$PROJECT_DIR$/src/pizzaaf/ThinCrustDough.java" />
-        <option value="$PROJECT_DIR$/src/pizzaaf/SlicedPepperoni.java" />
-        <option value="$PROJECT_DIR$/src/pizzaaf/MarinaraSauce.java" />
-        <option value="$PROJECT_DIR$/src/pizzaaf/PlumTomatoSauce.java" />
-        <option value="$PROJECT_DIR$/src/pizzaaf/BlackOlives.java" />
-        <option value="$PROJECT_DIR$/src/pizzaaf/Eggplant.java" />
-        <option value="$PROJECT_DIR$/src/pizzaaf/Mushroom.java" />
-        <option value="$PROJECT_DIR$/src/pizzaaf/Onion.java" />
-        <option value="$PROJECT_DIR$/src/pizzaaf/RedPepper.java" />
-        <option value="$PROJECT_DIR$/src/pizzaaf/Spinach.java" />
-        <option value="$PROJECT_DIR$/src/builder/Builder.java" />
-        <option value="$PROJECT_DIR$/src/builder/UesrInfoBuilder.java" />
-        <option value="$PROJECT_DIR$/src/builder/User.java" />
-        <option value="$PROJECT_DIR$/src/builder/UserBuilder.java" />
-        <option value="$PROJECT_DIR$/src/builder/UserInfoBuilder.java" />
-        <option value="$PROJECT_DIR$/src/builder/BuilderPattern.java" />
-        <option value="$PROJECT_DIR$/src/builder/UserInfo.java" />
-        <option value="$PROJECT_DIR$/src/factoryPattern/Direction.java" />
-        <option value="$PROJECT_DIR$/src/factoryPattern/MotorStatus.java" />
-        <option value="$PROJECT_DIR$/src/factoryPattern02/MotorFactory.java" />
-        <option value="$PROJECT_DIR$/src/factoryPattern/MotorFactory.java" />
-        <option value="$PROJECT_DIR$/src/factoryPattern/Client.java" />
-        <option value="$PROJECT_DIR$/src/factoryPattern/HyundaiMotor.java" />
-        <option value="$PROJECT_DIR$/src/factoryPattern/LGMotor.java" />
-        <option value="$PROJECT_DIR$/src/factoryPattern/ElevatorController.java" />
         <option value="$PROJECT_DIR$/src/factoryPattern/Motor.java" />
         <option value="$PROJECT_DIR$/src/PrototypePattern_shallow/EmployeeAddress.java" />
         <option value="$PROJECT_DIR$/src/PrototypePattern_shallow/Employee.java" />
@@ -104,6 +100,34 @@
         <option value="$PROJECT_DIR$/src/templateMethodPattern02/Tea.java" />
         <option value="$PROJECT_DIR$/src/templateMethodPattern02/Client.java" />
         <option value="$PROJECT_DIR$/src/templateMethodPattern02/CaffeineBeberage.java" />
+        <option value="$PROJECT_DIR$/src/statePattern/State.java" />
+        <option value="$PROJECT_DIR$/src/statePattern/StartState.java" />
+        <option value="$PROJECT_DIR$/src/statePattern/StopState.java" />
+        <option value="$PROJECT_DIR$/src/statePattern/Context.java" />
+        <option value="$PROJECT_DIR$/src/statePattern/StatePatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/statePattern02/Context.java" />
+        <option value="$PROJECT_DIR$/src/statePattern02/OpeningState.java" />
+        <option value="$PROJECT_DIR$/src/statePattern02/OpenState.java" />
+        <option value="$PROJECT_DIR$/src/statePattern02/StayOpenState.java" />
+        <option value="$PROJECT_DIR$/src/statePattern02/StatePatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/statePattern02/ClosingState.java" />
+        <option value="$PROJECT_DIR$/src/strategyPattern/Context.java" />
+        <option value="$PROJECT_DIR$/src/strategyPattern/Strategy.java" />
+        <option value="$PROJECT_DIR$/src/strategyPattern/OperationAdd.java" />
+        <option value="$PROJECT_DIR$/src/strategyPattern/OperationMultiply.java" />
+        <option value="$PROJECT_DIR$/src/strategyPattern/OperationSubstract.java" />
+        <option value="$PROJECT_DIR$/src/strategyPattern/StrategyPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/strategyPattern02/IAdvisor.java" />
+        <option value="$PROJECT_DIR$/src/strategyPattern02/PromotionAdvisor.java" />
+        <option value="$PROJECT_DIR$/src/strategyPattern02/Advisor.java" />
+        <option value="$PROJECT_DIR$/src/strategyPattern02/Customer.java" />
+        <option value="$PROJECT_DIR$/src/strategyPattern02/GroupAdvisor.java" />
+        <option value="$PROJECT_DIR$/src/strategyPattern02/Context.java" />
+        <option value="$PROJECT_DIR$/src/strategyPattern02/ItemAdvisor.java" />
+        <option value="$PROJECT_DIR$/src/strategyPattern02/RandomAdvisor.java" />
+        <option value="$PROJECT_DIR$/src/dsfdsf.java" />
+        <option value="$PROJECT_DIR$/src/statePattern02/ClosedState.java" />
+        <option value="$PROJECT_DIR$/src/statePattern02/State.java" />
       </list>
     </option>
   </component>
@@ -117,10 +141,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="60" />
     <option name="y" value="23" />
-    <option name="width" value="1332" />
-    <option name="height" value="867" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -130,6 +153,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -137,16 +161,11 @@
               <item name="pattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="pattern" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -163,11 +182,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="term&#9;ACTION&#9;ActivateTerminalToolWindow&#10;module&#9;PSI&#9;JAVA://com.sun.xml.internal.ws.api.server.Module" />
+    <property name="SearchEverywhereHistoryKey" value="termi&#9;ACTION&#9;ActivateTerminalToolWindow&#10;term&#9;ACTION&#9;ActivateTerminalToolWindow&#10;module&#9;PSI&#9;JAVA://com.sun.xml.internal.ws.api.server.Module" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -175,6 +193,14 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="statePattern02" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/statePattern02" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -188,7 +214,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StatePatternDemo">
+  <component name="RunManager" selected="Application.StatePatternDemo (1)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -199,28 +225,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="templateMethodPattern02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="MementoPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mementoPattern.MementoPatternDemo" />
-      <module name="pattern" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mementoPattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="PrototypePatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrototyePattern.PrototypePatternDemo" />
-      <module name="pattern" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PrototyePattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,6 +240,17 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="StatePatternDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="statePattern02.StatePatternDemo" />
+      <module name="pattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="statePattern02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="StatePatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="statePattern.StatePatternDemo" />
       <module name="pattern" />
@@ -243,6 +258,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="statePattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="StrategyPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strategyPattern.StrategyPatternDemo" />
+      <module name="pattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="strategyPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -314,19 +340,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.SingletonExercise" />
-      <item itemvalue="Application.MementoPatternDemo" />
-      <item itemvalue="Application.PrototypePatternDemo" />
       <item itemvalue="Application.TemplatePatternDemo" />
       <item itemvalue="Application.Client (1)" />
       <item itemvalue="Application.StatePatternDemo" />
+      <item itemvalue="Application.StatePatternDemo (1)" />
+      <item itemvalue="Application.StrategyPatternDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StatePatternDemo" />
+        <item itemvalue="Application.StatePatternDemo (1)" />
         <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.StrategyPatternDemo" />
+        <item itemvalue="Application.StatePatternDemo" />
         <item itemvalue="Application.TemplatePatternDemo" />
-        <item itemvalue="Application.MementoPatternDemo" />
-        <item itemvalue="Application.PrototypePatternDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -353,38 +379,41 @@
       <workItem from="1527433023773" duration="84000" />
       <workItem from="1527482020606" duration="4292000" />
       <workItem from="1527600349809" duration="118000" />
-      <workItem from="1527730319301" duration="1473000" />
+      <workItem from="1527730319301" duration="6336000" />
+      <workItem from="1528290576667" duration="3866000" />
+      <workItem from="1528356883548" duration="5000" />
+      <workItem from="1528371382910" duration="3527000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28518000" />
+    <option name="totallyTimeSpent" value="40779000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="60" y="23" width="1332" height="867" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.3275218" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32627645" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info id="Image Layers" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.42370743" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.49564135" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32786885" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24924925" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23055555" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -433,136 +462,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/pizzaaf/SlicedPepperoni.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pizzaaf/MarinaraSauce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pizzaaf/Onion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pizzaaf/Spinach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pizzaaf/RedPepper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pizzaaf/Mushroom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pizzaaf/Garlic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pizzaaf/Eggplant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pizzaaf/CheesePizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pizzaaf/BlackOlives.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pizzaaf/Veggies.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pizzaaf/PlumTomatoSauce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pizzaaf/PizzaTestDrive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/builder/Builder.java" />
-    <entry file="file://$PROJECT_DIR$/src/builder/UesrInfoBuilder.java" />
-    <entry file="file://$PROJECT_DIR$/src/builder/User.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Formatter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="4309" column="24" lean-forward="true" selection-start-line="4309" selection-start-column="24" selection-end-line="4309" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/builder/BuilderPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/builder/UserInfoBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="5" lean-forward="true" selection-end-line="41" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/builder/UserInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/factoryPattern02/Client.java" />
-    <entry file="file://$PROJECT_DIR$/src/factoryPattern02/MotorFactory.java" />
-    <entry file="file://$PROJECT_DIR$/src/factoryPattern/ElevatorController.java" />
-    <entry file="file://$PROJECT_DIR$/src/factoryPattern/Direction.java" />
-    <entry file="file://$PROJECT_DIR$/src/factoryPattern/Client.java" />
-    <entry file="file://$PROJECT_DIR$/src/factoryPattern/HyundaiMotor.java" />
-    <entry file="file://$PROJECT_DIR$/src/factoryPattern/MotorFactory.java" />
-    <entry file="file://$PROJECT_DIR$/src/factoryPattern/MotorStatus.java" />
     <entry file="file://$PROJECT_DIR$/src/factoryPattern/Motor.java" />
     <entry file="file://$PROJECT_DIR$/src/factoryPattern/LGMotor.java" />
     <entry file="file://$PROJECT_DIR$/src/PrototypePattern_deepCopy/CloningInJava.java">
@@ -639,12 +538,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#107#108#0" expanded="true" />
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -652,13 +545,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -666,16 +552,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#389#390#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -683,14 +559,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#103#104#0" expanded="true" />
-            <element signature="e#164#165#0" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -698,14 +566,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#102#103#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
-            <element signature="e#392#393#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -723,13 +583,137 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/statePattern/StopState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statePattern/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statePattern/StartState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statePattern/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statePattern/StatePatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/strategyPattern/StrategyPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/strategyPattern/OperationMultiply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/strategyPattern/OperationAdd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/strategyPattern/OperationSubstract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/strategyPattern/Strategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/strategyPattern/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/strategyPattern02/PromotionAdvisor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/strategyPattern02/Firework.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/strategyPattern02/GroupAdvisor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" />
+          <folding>
+            <element signature="e#0#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/strategyPattern02/ItemAdvisor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" lean-forward="true" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/templateMethodPattern02/CaffeineBeberage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        <state relative-caret-position="378">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templateMethodPattern02/Coffee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
           <folding>
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -741,22 +725,108 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/templateMethodPattern02/Coffee.java">
+    <entry file="file://$PROJECT_DIR$/src/templateMethodPattern02/Tea.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" selection-start-line="10" selection-end-line="11" />
+        <state relative-caret-position="288">
+          <caret line="16" lean-forward="true" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statePattern02/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statePattern02/ClosedState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="5" lean-forward="true" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statePattern02/ClosingState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="32" lean-forward="true" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dsfdsf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
           <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/templateMethodPattern02/Tea.java">
+    <entry file="file://$PROJECT_DIR$/src/strategyPattern02/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="216">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/strategyPattern02/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" lean-forward="true" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#261#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/strategyPattern02/Advisor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statePattern02/OpeningState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="35" lean-forward="true" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statePattern02/OpenState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" lean-forward="true" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statePattern02/StayOpenState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" lean-forward="true" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statePattern02/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" lean-forward="true" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statePattern02/StatePatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/strategyPattern02/RandomAdvisor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
